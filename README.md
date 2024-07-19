@@ -1,4 +1,4 @@
-# Project Title
+#  AI-Enhanced Airline Mergers and Acquisitions Strategy
 
 Final project for the Building AI course
 
